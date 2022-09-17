@@ -1,9 +1,7 @@
 # Alvaro Tavares
 
 💼Hoje trabalho como analista de negócios
-
 🧑‍🎓Estudo: Análise de dados e Big data
-
 📩Contate-me no e-mail: alvaro1@outlook.com
 
 <div align="center">
