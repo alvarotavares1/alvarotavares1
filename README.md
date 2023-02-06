@@ -14,7 +14,7 @@
   
   
   <img align="center" alt="Alvaro-Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Alvaro-HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Alvaro-Python" height="125" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  <img align="center" alt="Alvaro-Java" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img align="center" 
-align="center" alt="Alvaro-selenium" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
+align="center" alt="Alvaro-selenium" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> <img align="center"
           
           
                
